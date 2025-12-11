@@ -5,7 +5,17 @@ body {
 h2 {
     font-family: "Courier New", Courier, monospace;
     color: #39ff14;
-    font-size:14px;
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 20px;
+    font-weight: 700;
+    margin-right: 8px;
+}
+
+p {
+    font-family: "Courier New", Courier, monospace;
+    color: #39ff14;
+    font-size: 14px;
     line-height: 1.6;
     padding: 20px;
     font-weight: 700;
