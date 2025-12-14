@@ -21,3 +21,10 @@ p {
     font-weight: 700;
     margin-right: 8px;
 }
+
+pre {
+    color: #39ff14;
+    font-family: monospace;
+    font-weight: bold;
+    text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;
+}
