@@ -50,3 +50,12 @@ pre {
     font-weight: bold;
     text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;
 }
+
+div.msg-cont {
+    padding-left: 70px;
+    color: #ff6614;
+    background-color: rgb(0, 0, 0);
+    line-height: 50px;
+    padding: 70px 70px 70px 70px;
+
+}
