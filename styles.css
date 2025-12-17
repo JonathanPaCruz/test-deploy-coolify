@@ -45,8 +45,8 @@ p.msg-test {
 }
 
 pre {
-    color: #ff1414;
+    color: #39ff14;
     font-family: monospace;
     font-weight: bold;
-    text-shadow: 0 0 5px #ff1414, 0 0 10px #ff1414;
+    text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14;
 }
